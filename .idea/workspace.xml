@@ -20,13 +20,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3476">
-              <caret line="232" column="27" selection-start-line="232" selection-start-column="27" selection-end-line="232" selection-end-column="27" />
+            <state relative-caret-position="638">
+              <caret line="257" column="27" selection-start-line="257" selection-start-column="27" selection-end-line="257" selection-end-column="48" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="e#1425#1432#0" expanded="true" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#ul#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -35,8 +39,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="264">
-              <caret line="340" column="13" selection-start-line="340" selection-start-column="13" selection-end-line="340" selection-end-column="13" />
+            <state relative-caret-position="243">
+              <caret line="371" column="23" selection-start-line="371" selection-start-column="23" selection-end-line="371" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -143,7 +147,9 @@
       <workItem from="1562768119276" duration="2709000" />
       <workItem from="1562771697578" duration="392000" />
       <workItem from="1562773831955" duration="396000" />
-      <workItem from="1562832170918" duration="2246000" />
+      <workItem from="1562832170918" duration="8492000" />
+      <workItem from="1562853257295" duration="600000" />
+      <workItem from="1562916490288" duration="51000" />
     </task>
     <task id="LOCAL-00001" summary="Building Section_Features/Section_Favorite_meals">
       <created>1562659134373</created>
@@ -159,22 +165,28 @@
       <option name="project" value="LOCAL" />
       <updated>1562685252057</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Building Section_CITIES">
+      <created>1562837084906</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1562837084906</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60477000" />
+    <option name="totallyTimeSpent" value="67374000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="0" width="697" height="735" extended-state="0" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20610687" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.31707317" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.31217837" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.40069687" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -190,7 +202,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Coverage" order="5" side_tool="true" visible="true" weight="0.1536" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.1536" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +211,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Building Section_Features/Section_Favorite_meals" />
     <MESSAGE value="Building Section_How_IT_WORKS" />
-    <option name="LAST_COMMIT_MESSAGE" value="Building Section_How_IT_WORKS" />
+    <MESSAGE value="Building Section_CITIES" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building Section_CITIES" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Omni_Food$index_html.dat" NAME="index.html Coverage Results" MODIFIED="1562832872762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
@@ -214,21 +227,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3476">
-          <caret line="232" column="27" selection-start-line="232" selection-start-column="27" selection-end-line="232" selection-end-column="27" />
+        <state relative-caret-position="638">
+          <caret line="257" column="27" selection-start-line="257" selection-start-column="27" selection-end-line="257" selection-end-column="48" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="e#1425#1432#0" expanded="true" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#1;n#section#1;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="340" column="13" selection-start-line="340" selection-start-column="13" selection-end-line="340" selection-end-column="13" />
+        <state relative-caret-position="243">
+          <caret line="371" column="23" selection-start-line="371" selection-start-column="23" selection-end-line="371" selection-end-column="23" />
         </state>
       </provider>
     </entry>
