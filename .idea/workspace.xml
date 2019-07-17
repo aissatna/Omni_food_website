@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89caf9a4-0598-42dd-9dd9-d87b31ee4ea9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/R_User_Library.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Omni_Food.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Omni_Food.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
@@ -20,27 +22,37 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="257" column="27" selection-start-line="257" selection-start-column="27" selection-end-line="257" selection-end-column="48" />
+            <state relative-caret-position="204">
+              <caret line="296" column="17" lean-forward="true" selection-start-line="296" selection-start-column="17" selection-end-line="296" selection-end-column="17" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#1425#1432#0" expanded="true" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#ul#1;n#section#1;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+                <element signature="e#14092#14098#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/data/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="371" column="23" selection-start-line="371" selection-start-column="23" selection-end-line="371" selection-end-column="23" />
+            <state relative-caret-position="168">
+              <caret line="393" column="23" lean-forward="true" selection-start-line="393" selection-start-column="23" selection-end-line="393" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -70,26 +82,51 @@
         <option value="$PROJECT_DIR$/vendors/css/Grid.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/resources/css/style.css" />
+        <option value="$PROJECT_DIR$/resources/data/.gitignore" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="697" />
-    <option name="height" value="735" />
+    <option name="y" value="25" />
+    <option name="width" value="683" />
+    <option name="height" value="743" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/vendors/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -108,7 +145,10 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Omni_Food/index.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html" type="JavascriptDebugType" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Omni_food_website/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" engineId="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" uri="http://localhost:63342/Omni_Food/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <recent_temporary>
@@ -150,6 +190,14 @@
       <workItem from="1562832170918" duration="8492000" />
       <workItem from="1562853257295" duration="600000" />
       <workItem from="1562916490288" duration="51000" />
+      <workItem from="1563106225183" duration="3284000" />
+      <workItem from="1563180852247" duration="177000" />
+      <workItem from="1563181155715" duration="575000" />
+      <workItem from="1563220454429" duration="688000" />
+      <workItem from="1563277841590" duration="133000" />
+      <workItem from="1563278213610" duration="108000" />
+      <workItem from="1563279558911" duration="5038000" />
+      <workItem from="1563352125729" duration="662000" />
     </task>
     <task id="LOCAL-00001" summary="Building Section_Features/Section_Favorite_meals">
       <created>1562659134373</created>
@@ -176,25 +224,35 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67374000" />
+    <option name="totallyTimeSpent" value="78039000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.20610687" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2060606" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.31217837" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.40069687" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30944625" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924242" weight="0.39739415" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" weight="0.32933104" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007576" side_tool="true" weight="0.39739415" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -203,6 +261,8 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
       <window_info anchor="right" id="Coverage" order="5" side_tool="true" weight="0.1536" />
+      <window_info anchor="right" id="R Graphics" order="6" />
+      <window_info anchor="right" id="R Packages" order="7" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -225,27 +285,35 @@
     <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="393" column="23" lean-forward="true" selection-start-line="393" selection-start-column="23" selection-end-line="393" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="257" column="27" selection-start-line="257" selection-start-column="27" selection-end-line="257" selection-end-column="48" />
+        <state relative-caret-position="204">
+          <caret line="296" column="17" lean-forward="true" selection-start-line="296" selection-start-column="17" selection-end-line="296" selection-end-column="17" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#1425#1432#0" expanded="true" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#ul#1;n#section#1;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#2;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
+            <element signature="e#14092#14098#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+    <entry file="file://$PROJECT_DIR$/resources/data/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="243">
-          <caret line="371" column="23" selection-start-line="371" selection-start-column="23" selection-end-line="371" selection-end-column="23" />
+        <state relative-caret-position="51">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
