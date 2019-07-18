@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="89caf9a4-0598-42dd-9dd9-d87b31ee4ea9" name="Default Changelist" comment="Building Section_SIGN_UP">
-      <change afterPath="$PROJECT_DIR$/resources/css/img/back-customers.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/resources/css/style.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+            <state relative-caret-position="98">
+              <caret line="459" column="61" selection-start-line="459" selection-start-column="42" selection-end-line="459" selection-end-column="61" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -30,17 +31,22 @@
                 <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#14092#14098#0" expanded="true" />
+                <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#1;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#0;n#div#1;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#div#3;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/resources/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="393" column="23" selection-start-line="393" selection-start-column="23" selection-end-line="393" selection-end-column="23" />
+            <state relative-caret-position="271">
+              <caret line="494" column="19" selection-start-line="494" selection-start-column="19" selection-end-line="494" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -59,6 +65,7 @@
     <findStrings>
       <find>float</find>
       <find>box</find>
+      <find>a</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -68,16 +75,16 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/vendors/css/Grid.css" />
-        <option value="$PROJECT_DIR$/resources/css/style.css" />
         <option value="$PROJECT_DIR$/resources/data/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/resources/css/style.css" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="25" />
     <option name="width" value="683" />
-    <option name="height" value="743" />
+    <option name="height" value="741" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -91,29 +98,6 @@
             <path>
               <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
               <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Omni_food_website" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Omni_food_website" type="462c0819:PsiDirectoryNode" />
-              <item name="vendors" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,7 +187,9 @@
       <workItem from="1563277841590" duration="133000" />
       <workItem from="1563278213610" duration="108000" />
       <workItem from="1563279558911" duration="5038000" />
-      <workItem from="1563352125729" duration="1156000" />
+      <workItem from="1563352125729" duration="4070000" />
+      <workItem from="1563376660235" duration="4227000" />
+      <workItem from="1563438629261" duration="2260000" />
     </task>
     <task id="LOCAL-00001" summary="Building Section_Features/Section_Favorite_meals">
       <created>1562659134373</created>
@@ -237,7 +223,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78533000" />
+    <option name="totallyTimeSpent" value="87934000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -249,15 +235,16 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="25" width="1366" height="743" extended-state="6" />
+    <frame x="0" y="25" width="683" height="741" extended-state="4" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2060606" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.42700157" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.30944625" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924242" weight="0.39739415" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.30944625" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49924242" weight="0.3970588" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
@@ -300,13 +287,6 @@
     <entry file="file://$PROJECT_DIR$/vendors/css/Grid.css">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="393" column="23" selection-start-line="393" selection-start-column="23" selection-end-line="393" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/vendors/js/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -330,8 +310,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="296" column="13" selection-start-line="296" selection-start-column="13" selection-end-line="296" selection-end-column="13" />
+        <state relative-caret-position="98">
+          <caret line="459" column="61" selection-start-line="459" selection-start-column="42" selection-end-line="459" selection-end-column="61" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
@@ -341,8 +321,20 @@
             <element signature="n#section#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#0;n#div#1;n#section#4;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#14092#14098#0" expanded="true" />
+            <element signature="n#section#5;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#1;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#0;n#div#1;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#div#3;n#form#0;n#div#1;n#section#6;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="494" column="19" selection-start-line="494" selection-start-column="19" selection-end-line="494" selection-end-column="19" />
         </state>
       </provider>
     </entry>
