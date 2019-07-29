@@ -11,7 +11,7 @@
 
 }
 
-/*Small tablets to big tablets from 767 px to 1023 px */
+/*Small tablets to big tablets from 768 px to 1023 px */
 @media only screen and (max-width: 1023px) {
     body {
         font-size: 16px;
@@ -32,6 +32,10 @@
 
     .steps-box:last-child {
         margin-top: 10px;
+    }
+
+    .works-step {
+        margin-bottom: 40px;
     }
 
     .works-step:last-of-type {
@@ -69,7 +73,6 @@
 @media only screen and (max-width: 767px) {
     body {
         font-size: 16px;
-
     }
 
     section {
@@ -78,7 +81,7 @@
 
     .row,
     .hero-text-box {
-        padding: 0 4px;
+        padding: 0 4%;
     }
 
     .col {
@@ -90,6 +93,50 @@
         display: none;
     }
 
+    .main-nav {
+        float: left;
+        margin-top: 35px;
+        margin-left: 25px;
+    }
+
+    .main-nav li {
+        display: block;
+    }
+
+    .main-nav li a:link,
+    .main-nav li a:visited {
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%;
+    }
+
+    .mobile-nav-icon {
+        display: inline-block;
+    }
+
+
+    /*sticky*/
+    .sticky .main-nav {
+
+        margin-top: 10px;
+    }
+
+    .sticky .main-nav li a:link,
+    .sticky .main-nav li a:visited {
+        padding: 10px 0;
+
+    }
+
+    .sticky .mobile-nav-icon {
+        margin-top: 10px;
+    }
+
+    .sticky .mobile-nav-icon i {
+        color: #555555;
+    }
+
+
     h1 {
         font-size: 180%;
     }
@@ -100,24 +147,23 @@
 
     .long-copy {
         width: 100%;
-        margin-left: 0;
-    }
-
-    .steps-box:first-child {
-        text-align: center;
-
+        margin-left: 0%;
     }
 
     .app-screen {
         width: 40%;
     }
 
-    .works-step div {
+    /*For the image */
+    .steps-box:first-child {
+        text-align: center;
 
+    }
+
+    .works-step div {
         height: 40px;
         width: 40px;
-        padding: 5px;
-        float: left;
+        padding: 4px;
         margin-right: 15px;
         font-size: 120%;
     }

@@ -198,8 +198,8 @@ input[type=submit] {
 /* HEADER */
 /*--------------------------------------------*/
 header {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("img/hero.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/hero.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.7)), to(rgba(0, 0, 0, 0.7))), url("img/hero-min.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("img/hero-min.jpg");
     background-size: cover;
     background-position: center;
     height: 100vh;
@@ -262,6 +262,19 @@ header {
 
 }
 
+/****** mobile navi********/
+.mobile-nav-icon {
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+
+}
+
+.mobile-nav-icon i {
+    font-size: 200%;
+    color: #ffffff;
+}
 /****** sticky navi********/
 .sticky {
     position: fixed;
@@ -354,13 +367,17 @@ header {
     background-color: #f4f4f4;
 }
 
+.steps-box {
+    margin-top: 30px;
+}
 .steps-box:first-child {
     text-align: right;
     padding-right: 3%;
-    margin-top: 30px;
+
 }
 
 .steps-box:last-child {
+    text-align: left;
     padding-left: 3%;
     margin-top: 70px;
 
@@ -383,8 +400,8 @@ header {
     border: 2px solid #e67e22;
     display: inline-block;
     border-radius: 50%;
-    height: 55px;
-    width: 55px;
+    height: 54px;
+    width: 54px;
     text-align: center;
     padding: 5px;
     float: left;
@@ -420,8 +437,8 @@ header {
 /*CUSTOMER TESTIMONIALS */
 /*--------------------------------------------*/
 .section-testimonials {
-    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8))), url("img/back-customers.jpg");
-    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img/back-customers.jpg");
+    background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.8)), to(rgba(0, 0, 0, 0.8))), url("img/back-customers-min.jpg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)), url("img/back-customers-min.jpg");
     background-size: cover;
     color: white;
     background-attachment: fixed;
